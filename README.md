@@ -1,6 +1,6 @@
 # Special Dating App
 
-This will be a standadr dating app where you can post your profile and everyone can see it.
+This will be a dating app where you can post your profile and everyone can see it.
 
 ## Features to implement during HACKDAY
 
