@@ -1,5 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default (params) => {
-  <h1>Amor's Bow</h1>
+const Header = (params) => {
+  return <h1>Amor's Bow</h1>;
 };
+
+export default Header;
